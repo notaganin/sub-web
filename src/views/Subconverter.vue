@@ -268,7 +268,7 @@ export default {
         },
         customBackend: {
           "localhost:25500 本地版": "http://localhost:25500/sub?",
-          "sub.blackdot.casa (本站作者提供test）": "https://sub.blackdot.casa/sub?",
+          "sub.blackdot.casa (本站作者提供）": "https://sub.blackdot.casa/sub?",
           "subcon.dlj.tf(subconverter作者提供-稳定)":
             "https://subcon.dlj.tf/sub?",
           "api.dler.io(sub作者&lhie1提供-稳定)": "https://api.dler.io/sub?",
